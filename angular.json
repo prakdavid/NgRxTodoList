@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "todoNgRx"
+    }
+  },
+  "defaultProject": "todoNgRx",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
